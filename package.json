@@ -1,0 +1,17 @@
+{
+  "name": "backendmern",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "keywords": [
+    "javascript",
+    "backend",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Hitesh Jangid",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
