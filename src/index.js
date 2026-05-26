@@ -2,8 +2,11 @@
 
 import dotenv from 'dotenv'
 import connectDB from './db/dbConnect.js';
+import express from 'express';
 
 dotenv.config('/.env')
+
+const app = express()
 
 connectDB()
 .then(() =>{
